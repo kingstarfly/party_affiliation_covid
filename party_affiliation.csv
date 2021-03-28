@@ -1,4 +1,4 @@
-state_po,p_democrat,p_republican,is_democrat
+state,p_democrat,p_republican,is_democrat
 AK,0.42771952271020497,0.5283314327038078,False
 AL,0.36569990212122333,0.620316431668648,False
 AR,0.34775061953014963,0.6239572985614432,False
