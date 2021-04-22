@@ -1,51 +1,51 @@
-,Unnamed: 0,STATE,PARTY,is_democrat
-0,0,Alabama,R,False
-1,1,Alaska,R,False
-2,2,Arizona,R,False
-3,3,Arkansas,R,False
-4,4,California,D,False
-5,5,Colorado,D,False
-6,6,Connecticut,D,False
-7,7,Delaware,D,False
-8,8,Florida,R,False
-9,9,Georgia,R,False
-10,10,Hawaii,D,False
-11,11,Idaho,R,False
-12,12,Illinois,D,False
-13,13,Indiana,R,False
-14,14,Iowa,R,False
-15,15,Kansas,D,False
-16,16,Kentucky,D,False
-17,17,Louisiana,D,False
-18,18,Maine,D,False
-19,19,Maryland,R,False
-20,20,Massachusetts,R,False
-21,21,Michigan,D,False
-22,22,Minnesota,D,False
-23,23,Mississippi,R,False
-24,24,Missouri,R,False
-25,25,Montana,R,False
-26,26,Nebraska,R,False
-27,27,Nevada,D,False
-28,28,New Hampshire,R,False
-29,29,New Jersey,D,False
-30,30,New Mexico,D,False
-31,31,New York,D,False
-32,32,North Carolina,D,False
-33,33,North Dakota,R,False
-34,34,Ohio,R,False
-35,35,Oklahoma,R,False
-36,36,Oregon,D,False
-37,37,Pennsylvania,D,False
-38,38,Rhode Island,D,False
-39,39,South Carolina,R,False
-40,40,South Dakota,R,False
-41,41,Tennessee,R,False
-42,42,Texas,R,False
-43,43,Utah,R,False
-44,44,Vermont,R,False
-45,45,Virginia,D,False
-46,46,Washington,D,False
-47,47,West Virginia,R,False
-48,48,Wisonsin,D,False
-49,49,Wyoming,R,False
+state,party,is_democrat
+AL,R,False
+AK,R,False
+AZ,R,False
+AR,R,False
+CA,D,True
+CO,D,True
+CT,D,True
+DE,D,True
+FL,R,False
+GA,R,False
+HI,D,True
+ID,R,False
+IL,D,True
+IN,R,False
+IA,R,False
+KS,D,True
+KY,D,True
+LA,D,True
+ME,D,True
+MD,R,False
+MA,R,False
+MI,D,True
+MN,D,True
+MS,R,False
+MO,R,False
+MT,R,False
+NE,R,False
+NV,D,True
+NH,R,False
+NJ,D,True
+NM,D,True
+NY,D,True
+NC,D,True
+ND,R,False
+OH,R,False
+OK,R,False
+OR,D,True
+PA,D,True
+RI,D,True
+SC,R,False
+SD,R,False
+TN,R,False
+TX,R,False
+UT,R,False
+VT,R,False
+VA,D,True
+WA,D,True
+WV,R,False
+WI,D,True
+WY,R,False
